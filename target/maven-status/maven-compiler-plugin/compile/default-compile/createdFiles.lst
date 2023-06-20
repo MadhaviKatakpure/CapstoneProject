@@ -1,0 +1,10 @@
+org\Capstone\PageObject\HomePage.class
+searchProduct\SearchDress.class
+org\Review\ReviewComment.class
+org\Login\PageObject\VerifyAccountDeleted.class
+org\RemoveFromCart\AddToCart.class
+org\Capstone\PageObject\AccountInformationPage.class
+org\Capstone\Base\BaseConfigNormal.class
+org\Capstone\PageObject\SignUpPage.class
+org\InvalidLogin\InvalidLoginPage.class
+org\Capstone\Base\BaseConfigurationCapstone.class
